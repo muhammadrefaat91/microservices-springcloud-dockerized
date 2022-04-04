@@ -5,7 +5,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../currency-conversion-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../currency-exchange-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../limits-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../naming-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-config-server/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="zulu-11" project-jdk-type="JavaSDK" />
 </project>
